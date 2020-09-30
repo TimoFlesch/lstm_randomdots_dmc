@@ -22,7 +22,7 @@ Below, I plot the average activity pattern recorded from the LSTM cell output at
 
  ## Representations of Probe Category
  Similarly, the network encodes the category membership of the probe stimulus briefly after onset 
- ![time series probe](figures/timeseries_ori_bound_4_run_4_probe.png)
+ ![time series probe](figures/timeseries_ori_bound_3_run_1_probe.png)
 
  ## Representation of Category Match vs Mismatch
  We can also ask whether the hidden layer patterns distinguished between category match and mismatch of the sample and probe: 
